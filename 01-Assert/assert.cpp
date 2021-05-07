@@ -7,7 +7,7 @@ int main(){
     
     assert('c'!='b'); // Char-acter
 
-    assert("hola"=="hola"); // String
+    assert(string("hola")==string("hola")); // String
 
     assert(2==2); // Int-eger
 
